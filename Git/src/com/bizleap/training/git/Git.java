@@ -9,8 +9,7 @@ public class Git {
 			res=res+i;
 			System.out.println( i +"="+res);
 		}
-		
-		
+		System.out.println("Testing");
 
 	}
 
